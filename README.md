@@ -33,3 +33,20 @@ Conducted an extensive data analysis of 99,999 Instagram users to investigate th
 The analysis provides data-driven insights into the relationship between Instagram usage and psychological well-being. It highlights opportunities for social media platforms to balance user engagement with digital wellness and responsible platform design.
 
 *Note: The findings represent statistical associations and should not be interpreted as proof of causation.*
+
+## Author
+
+**Harshit Kumar Pandey**\
+MBA -- Business Analytics\
+Interested in Data Analytics, Business Intelligence, and data-driven
+decision-making.
+
+------------------------------------------------------------------------
+
+If you find this project useful, feel free to ⭐ the repository.
+
+## Disclaimer
+
+This dashboard is a data-analytics portfolio/academic project. Company names and labels are used to describe the dataset and dashboard subject. The analysis is based on the dataset provided with this repository and should not be interpreted as an official company report or as independently audited financial information.
+
+
